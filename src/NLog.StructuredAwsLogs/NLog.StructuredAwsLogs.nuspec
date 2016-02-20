@@ -6,11 +6,11 @@
     <title>$title$</title>
     <authors>$author$</authors>
     <owners>$author$</owners>
-    <licenseUrl>http://github.com/justeat/NLog.StructuredAwsLogs.Library/LICENSE</licenseUrl>
-    <projectUrl>http://github.com/justeat/NLog.StructuredAwsLogs.Library</projectUrl>
+    <licenseUrl>http://github.com/justeat/NLog.StructuredAwsLogs/LICENSE</licenseUrl>
+    <projectUrl>http://github.com/justeat/NLog.StructuredAwsLogs</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>http://github.com/justeat/NLog.StructuredAwsLogs.Library/CHANGELOG.md</releaseNotes>
+    <releaseNotes>http://github.com/justeat/NLog.StructuredAwsLogs/CHANGELOG.md</releaseNotes>
     <copyright>Copyright JUSTEAT 2015</copyright>
     <tags>tag tag</tags>
   </metadata>

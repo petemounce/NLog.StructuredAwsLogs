@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace NLog.StructuredAwsLogs.Library
+namespace NLog.StructuredAwsLogs
 {
     public class Class1
     {

@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NLog.StructuredAwsLogs.Library")]
+[assembly: AssemblyTitle("NLog.StructuredAwsLogs")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyProduct("NLog.StructuredAwsLogs.Library")]
+[assembly: AssemblyProduct("NLog.StructuredAwsLogs")]
 [assembly: AssemblyCopyright("Copyright Â©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

@@ -7,7 +7,7 @@
                     "role":  "library"
                 },
     "build":  {
-                  "solution":  "NLog.StructuredAwsLogs.Library.sln",
-                  "mainproject":  "NLog.StructuredAwsLogs.Library\\NLog.StructuredAwsLogs.Library.csproj"
+                  "solution":  "NLog.StructuredAwsLogs.sln",
+                  "mainproject":  "NLog.StructuredAwsLogs\\NLog.StructuredAwsLogs.csproj"
               }
 }

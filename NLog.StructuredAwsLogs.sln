@@ -12,7 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assets", "Assets", "{2EC480
 		version.txt = version.txt
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog.StructuredAwsLogs.Library", "src\NLog.StructuredAwsLogs.Library\NLog.StructuredAwsLogs.Library.csproj", "{34ACDBE5-8B6C-4432-86AA-9D8567CDC2B6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLog.StructuredAwsLogs", "src\NLog.StructuredAwsLogs\NLog.StructuredAwsLogs.csproj", "{34ACDBE5-8B6C-4432-86AA-9D8567CDC2B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
