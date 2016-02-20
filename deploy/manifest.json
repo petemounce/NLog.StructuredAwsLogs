@@ -1,0 +1,13 @@
+{
+    "scripts":  {
+                    "version":  1
+                },
+    "feature":  {
+                    "name":  "structuredawslogs",
+                    "role":  "library"
+                },
+    "build":  {
+                  "solution":  "NLog.StructuredAwsLogs.Library.sln",
+                  "mainproject":  "NLog.StructuredAwsLogs.Library\\NLog.StructuredAwsLogs.Library.csproj"
+              }
+}
